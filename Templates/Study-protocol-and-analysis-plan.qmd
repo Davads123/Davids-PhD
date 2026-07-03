@@ -1,0 +1,27 @@
+# Title
+
+## Background
+
+## Methods Data sources
+
+## Study design
+
+## Study population
+
+## Exposure(s)
+
+## Outcome(s)
+
+## Confounders
+
+## Statistical analysis
+
+## References
+
+## Appendix 1: 
+
+Must include tables with the different ICD, ATC and procedure codes needed for inclusion, exclusion, exposure(s), outcome(s), and confounders. It needs to be grouped as you need the variables.
+
+## Appendix 2:  
+
+Must include mock figures and tables. First a flow diagram. Then Table 1 and remaining tables showing the results. All without the specific numbers/empty tables.
