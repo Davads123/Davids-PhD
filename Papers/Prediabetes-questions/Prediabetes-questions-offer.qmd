@@ -3,17 +3,18 @@ title: "Individuals-with-prediabetes-managed-in-Denmark"
 author: "David-Vadsholt"
 format: docx
 editor: visual
+bibliography: references.bib
 ---
 
 # How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
 
 ## Background
 
-Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide. In Denmark, nearly 19,000 individuals are diagnosed with T2D each year, contributing to more than 250,000 people living with the disease. In addition, approximately 60,000 individuals are estimated to have undiagnosed T2D, while nearly 300,000 people are living with prediabetes.
+Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. In Denmark, nearly 19,000 individuals are diagnosed with T2D each year, contributing to more than 250,000 people living with the disease[@carstensen2020]. In addition, approximately 60,000 individuals are estimated to have undiagnosed T2D, while nearly 300,000 people are living with prediabetes[@jørgensen2018].
 
-Prediabetes is an intermediate state of dysglycaemia associated with an increased risk of developing T2D and cardiovascular disease. Depending on the diagnostic criteria applied, approximately 10–40% of individuals with prediabetes progress to T2D within 1–5 years, whereas 17–45% revert to normoglycaemia without developing diabetes.
+Prediabetes is an intermediate state of dysglycaemia associated with an increased risk of developing T2D and cardiovascular disease. Depending on the diagnostic criteria applied, approximately 10–40% of individuals with prediabetes progress to T2D within 1–5 years, whereas 17–45% revert to normoglycaemia without developing diabetes[@hong2016; @vistisen2019; @tabák2012; @larsson2000].
 
-Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
+Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
 
 Little is known about how individuals are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
 

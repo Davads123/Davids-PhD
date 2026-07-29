@@ -2,19 +2,14 @@
 
 ## Background
 
-## Methods Data sources
-
-## Study design
-
-## Study population
-
-## Exposure(s)
-
-## Outcome(s)
-
-## Confounders
-
-## Statistical analysis
+## Methods 
+### Data sources
+### Study design
+### Study population
+### Exposure(s)
+### Outcome(s)
+### Confounders
+### Statistical analysis
 
 ## References
 

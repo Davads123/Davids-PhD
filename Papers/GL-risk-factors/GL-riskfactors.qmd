@@ -1,27 +1,43 @@
-# Title
+---
+bibliography: references.bib
+---
+
+# Title: Prevalence and Risk Factors of Type 2 Diabetes in Greenland: A multi-Survey Cohort Study
 
 ## Background
 
-## Methods Data sources
+Greenland, part of the Kingdom of Denmark, has experienced a marked increase in the prevalence of T2D over the past several decades. Historically, diabetes was considered rare among Greenlandic Inuit, but rapid socioeconomic development and lifestyle changes, including dietary transition, reduced physical activity, and increasing obesity, have contributed to a growing disease burden. Current estimates suggest that approximately 6.5% of the adult Greenlandic population has T2D.
 
-## Study design
+The Greenlandic population possesses unique genetic characteristics that influence diabetes susceptibility. One of the most well-described examples is a pathogenic variant in HNF1A, found almost exclusively among Greenlandic Inuit, which is present in approximately 1.9% of the population and explains around 2.5% of the variance in T2D risk. In addition, variants in genes such as TBC1D4 have been shown to substantially affect glucose metabolism and increase the risk of T2D, particularly when diagnosed using oral glucose tolerance testing (OGTT). These population-specific genetic factors highlight that the pathophysiology and optimal screening strategies for T2D in Greenland may differ from those in predominantly European populations.
 
-## Study population
+Diagnosis of T2D in Greenland presents additional challenges. Different diagnostic methods, including glycated haemoglobin (HbA1c), fasting plasma glucose (FPG), and OGTT, identify overlapping but distinct groups of individuals. Previous studies have demonstrated that reliance on HbA1c alone may underestimate diabetes prevalence in Greenlandic Inuit due to differences in glucose metabolism and the influence of genetic variants affecting postprandial glucose regulation. Consequently, understanding how risk factors differ according to diagnostic criteria is important for improving T2D detection and prevention.
 
-## Exposure(s)
+We therefore aimed to investigate the prevalence of type 2 diabetes and the associated clinical, lifestyle, and genetic risk factors among Greenlandic Inuit using HbA1c- and OGTT-based diagnostic criteria.
 
-## Outcome(s)
+## Methods
 
-## Confounders
+### Data sources
 
-## Statistical analysis
+Data for this study will be obtained from three Greenlandic populaiton health surveys from 1999-2001, 2005-2010, and 2017-2019. These surveys were designed to investigate the health status of the Greenlandic population and include standardized information collected through questionnaires, physical examinations, laboratory measurements, and genetic analyses.
+
+### Study design
+
+### Study population
+
+### Exposure(s)
+
+### Outcome(s)
+
+### Confounders
+
+### Statistical analysis
 
 ## References
 
-## Appendix 1: 
+## Appendix 1:
 
 Must include tables with the different ICD, ATC and procedure codes needed for inclusion, exclusion, exposure(s), outcome(s), and confounders. It needs to be grouped as you need the variables.
 
-## Appendix 2:  
+## Appendix 2:
 
 Must include mock figures and tables. First a flow diagram. Then Table 1 and remaining tables showing the results. All without the specific numbers/empty tables.
