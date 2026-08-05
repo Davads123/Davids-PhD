@@ -1,0 +1,49 @@
+# 
+
+# Dose-response association between statins and adverse effects
+
+## Background
+
+Low density lipoprotein cholesterol (LDL-C) is a well-established risk factor for atherosclerotic cardiovascular disease (CVD). Statins are the cornerstone of lipid-lowering therapy and are widely used for both primary and secondary prevention of CVD due to consistently demonstrating to reduce the risk of major vascular events.
+
+The use of statins has increased substantially over recent decades. In Denmark, approximately XXX individuals redeem prescriptions for statins each year, and this number is suspected to increase as population ages.
+
+Although statins share the same mechanism of action, individual agents differ in lipid-lowering potency, pharmacokinetic properties, lipophilicity and metabolic pathways. These differences may influence their adverse effect profiles. Overall, statins are well tolerated with rare serious adverse effects. Whether risks differ between individual statins independently of the prescribed dose remains less certain.
+
+Current studies have suggested that the adverse effects are not dependent on start dosis but despite this, it is common practise to start low and then increase the dosis, as this is typically done for other medications.
+
+There are currently no studies that have looked at, if there are a difference in the
+
+Hypotese: der er IKKE forskel på hyppigheden af bivirkninger for de forskellige doser af samme præperat. 
+
+## Methods
+
+### Data sources
+
+### Study design
+
+Alle der har fået ordineret statiner i DK opdelt efter statindosis og præparat (Atorvastatin 10-20 mg, Atorvastatin 40 mg , Atorvastatin 80 mg, Rosuvastatin 10-20 mg, Rosuvastatin 30-40 mg, Simvastatin 10-20 mg og Simvastatin 30-40 mg). Ønsker at se på discontinue rate, dosisreduktion og præperatskifte indenfor 6 måneder som proxy for bivirkninger.
+
+Analyserne er derfor de forskellige atorvastatin/simvastatin/rosuvastatin doser vs hinanden plus de forskellige præperater vs hinanden. Alle analyser for hele gruppen og blandt hhv diabetes / non-diabetes.
+
+AKA Bivirkninger for de forskellige doser blandt hvert præparat Bivirkninger på tværs af statinerne (men ikke dosisjusteret som udgangspunkt) o Dette ligeledes justeret for diabetes og non-diabetes
+
+### Study population
+
+### Exposure(s)
+
+### Outcome(s)
+
+### Confounders
+
+Der skal nok justeres for lidt forskellige ting, men særligt nyligt kardiovaskulært event (hvor man jo normalt starter højdosis statin efter) er en vigtig faktor. \### Statistical analysis
+
+## References
+
+## Appendix 1:
+
+Must include tables with the different ICD, ATC and procedure codes needed for inclusion, exclusion, exposure(s), outcome(s), and confounders. It needs to be grouped as you need the variables.
+
+## Appendix 2:
+
+Must include mock figures and tables. First a flow diagram. Then Table 1 and remaining tables showing the results. All without the specific numbers/empty tables.
