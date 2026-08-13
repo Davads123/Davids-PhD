@@ -1,42 +1,54 @@
-# 
-
 # Dose-response association between statins and adverse effects
 
 ## Background
 
-Low density lipoprotein cholesterol (LDL-C) is a well-established risk factor for atherosclerotic cardiovascular disease (CVD). Statins are the cornerstone of lipid-lowering therapy and are widely used for both primary and secondary prevention of CVD due to consistently demonstrating to reduce the risk of major vascular events.
+Low density lipoprotein cholesterol (LDL-C) is a well-established risk factor for atherosclerotic cardiovascular disease (CVD). Statins are the cornerstone of lipid-lowering therapy and are widely used for both primary and secondary prevention of CVD as they consistently reduce the risk of major vascular events.
 
-The use of statins has increased substantially over recent decades. In Denmark, approximately XXX individuals redeem prescriptions for statins each year, and this number is suspected to increase as population ages.
+The use of statins has increased substantially over recent decades. In Denmark, approximately XXX individuals redeem prescriptions for statins each year, and this number is expected to increase as the population ages. In clinical practice, statin therapy is often initiated at a lower dose and subsequently up-titrated, partly to improve tolerability. However, it remains uncertain whether initiating treatment at a lower dose is associated with fewer adverse effects compared with initiating treatment at a higher dose.
 
-Although statins share the same mechanism of action, individual agents differ in lipid-lowering potency, pharmacokinetic properties, lipophilicity and metabolic pathways. These differences may influence their adverse effect profiles. Overall, statins are well tolerated with rare serious adverse effects. Whether risks differ between individual statins independently of the prescribed dose remains less certain.
+Overall, statins are well tolerated with rare serious adverse effects. Although they share the same mechanism of action, individual agents differ in lipid-lowering potency, pharmacokinetic properties, lipophilicity and metabolic pathways. These differences may influence their adverse effect profiles. However, whether the risk of adverse effects differs between individual statins independently of starting dose remains uncertain.
 
-Current studies have suggested that the adverse effects are not dependent on start dosis but despite this, it is common practise to start low and then increase the dosis, as this is typically done for other medications.
-
-There are currently no studies that have looked at, if there are a difference in the
-
-Hypotese: der er IKKE forskel på hyppigheden af bivirkninger for de forskellige doser af samme præperat. 
+We hypothesise that the risk of adverse effects does not differ according to statin starting dose or statin type.
 
 ## Methods
 
 ### Data sources
 
+Data will be obtained from the Danish National Patient Registry, Register of Medicinal Products Statistics, and Danish Civil Registration System. The Danish National Patient Registry contains information on hospital-based diagnoses, while the Register of Medicinal Products Statistics of the Danish Medicines includes all redeemed prescriptions from community pharmacies. Crosslinkage will be performed using unique civil registration numbers assigned to all Danish residents.
+
 ### Study design
 
-Alle der har fået ordineret statiner i DK opdelt efter statindosis og præparat (Atorvastatin 10-20 mg, Atorvastatin 40 mg , Atorvastatin 80 mg, Rosuvastatin 10-20 mg, Rosuvastatin 30-40 mg, Simvastatin 10-20 mg og Simvastatin 30-40 mg). Ønsker at se på discontinue rate, dosisreduktion og præperatskifte indenfor 6 måneder som proxy for bivirkninger.
-
-Analyserne er derfor de forskellige atorvastatin/simvastatin/rosuvastatin doser vs hinanden plus de forskellige præperater vs hinanden. Alle analyser for hele gruppen og blandt hhv diabetes / non-diabetes.
-
-AKA Bivirkninger for de forskellige doser blandt hvert præparat Bivirkninger på tværs af statinerne (men ikke dosisjusteret som udgangspunkt) o Dette ligeledes justeret for diabetes og non-diabetes
+The study will be a retrospective cohort study using an active-comparator, new-user design. The index date will be defined as the date of the first statin dispensing after the required washout period.
 
 ### Study population
 
+We plan to include all individuals aged ≥18 years initiating statin treatment between 1 January 2016 and 31 December 2020 (Catchment population \~5.86 million), with no statin dispensing during the preceding 36 months.
+
 ### Exposure(s)
+
+Exposure to statins will be categorised according to statin type using the following ATC codes: atorvastatin (C10AA05), rosuvastatin (C10AA07), and simvastatin (C10AA01). Statin type and dose will be defined according to the statin dispensed at the index date. Starting daily dose will be categorised as atorvastatin 10–20 mg, 40 mg, and 80 mg; rosuvastatin 10–20 mg and 30–40 mg; and simvastatin 10–20 mg and 30–40 mg.
 
 ### Outcome(s)
 
+The primary outcome will be the first treatment modification within three and six months after the index date, defined as either dose reduction, statin discontinuation or switching to another statin. Treatment modification will be used as a proxy for statin-related adverse effects. Treatment modification will be analysed according to the statin type and starting dose at the index date.
+
+Statin dose reduction will be defined as either (a) dispensing of the same statin at a lower daily dose than previously dispensed, or (b) a ≥25% reduction in the estimated average daily dose based on the two most recent dispensings compared with the preceding treatment period. Switching will be defined as dispensing of a different statin during follow-up. Statin discontinuation will be defined as the absence of a subsequent statin dispensing within 30 days after the estimated end of supply of the preceding dispensing.
+
 ### Confounders
 
-Der skal nok justeres for lidt forskellige ting, men særligt nyligt kardiovaskulært event (hvor man jo normalt starter højdosis statin efter) er en vigtig faktor. \### Statistical analysis
+Potential baseline confounders include age, sex, type 2 diabetes, myocardial infarction, ischemic stroke and familial hypercholesterolemia.
+
+### Statistical analysis
+
+Baseline characteristics of statin users will be summarised overall and according to type 2 diabetes status. Continuous variables will be presented as means with standard deviations and frequencies with percentages for categorical variables.
+
+Cox proportional hazards regression will be used to estimate the association between statin exposure and the first treatment modification within three and six months, with results reported as hazard ratios with 95 % confidence intervals.
+
+For within-statin analyses, the lowest dose category will serve as the reference. For between statin analyses, atorvastatin will serve as the reference and will be compared with rosuvastatin and simvastatin irrespective of dose.
+
+Participants will be followed from the index date until the first treatment modification, death, emigration, six months of follow-up or the end of available data, whichever occurs first. Multivariable models will be adjusted for relevant confounders.
+
+Analyses will be conducted in the overall cohort and separately among individuals with and without type 2 diabetes.
 
 ## References
 
