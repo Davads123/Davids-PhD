@@ -22,7 +22,7 @@ The study will be a retrospective cohort study using an active-comparator, new-u
 
 ### Study population
 
-We plan to include all individuals aged ≥18 years initiating statin treatment between 1 January 2016 and 31 December 2020 (Catchment population \~5.86 million), with no statin dispensing during the preceding 36 months.
+We plan to include all individuals aged ≥18 years initiating statin treatment between 1 January 2012 and 31 December 2021 (Catchment population \~5.86 million), with no statin dispensing during the preceding 36 months.
 
 ### Exposure(s)
 
