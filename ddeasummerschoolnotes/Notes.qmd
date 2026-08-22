@@ -1,0 +1,9 @@
+Bayesian Statistics and the World Beyond p<0.05
+\(P(A\vert{}B) = \frac{P(B\vert{}A) \times P(A)}{P(B)}\),
+P(A|B) (Posterior): The probability that event A is true after considering the new evidence 
+B.P(B|A) (Likelihood): The probability of seeing evidence B if event A is true.
+P(A) (Prior): The initial probability of event A before new evidence.
+P(B) (Marginal): The total probability of seeing the evidence B across all possibilities
+
+Bayes factor
+Sandsynlighed for hypotesen givet data / sandsynlighed for alternativ hypotese givet data
