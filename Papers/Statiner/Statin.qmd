@@ -14,7 +14,7 @@ We hypothesise that the risk of adverse effects does not differ according to sta
 
 ### Data sources
 
-Data will be obtained from the Danish National Patient Registry, Register of Medicinal Products Statistics, and Danish Civil Registration System. The Danish National Patient Registry contains information on hospital-based diagnoses, while the Register of Medicinal Products Statistics of the Danish Medicines includes all redeemed prescriptions from community pharmacies. Crosslinkage will be performed using unique civil registration numbers assigned to all Danish residents.
+This study will be conducted using a project database (703382) from Statistics Denmark, containing data on individuals with type 2 diabetes and healthy individuals with a ratio of 1:3. Data will be obtained from the Danish National Patient Registry, Register of Medicinal Products Statistics, and Danish Civil Registration System. The Danish National Patient Registry contains information on hospital-based diagnoses, while the Register of Medicinal Products Statistics includes all redeemed prescriptions from community pharmacies. Cross-linkage will be performed using unique civil registration numbers assigned to all Danish residents. Data from Register of Medicinal Products Statistics contains information on statin dispensing from January 1995 to December 2021.
 
 ### Study design
 
@@ -22,7 +22,7 @@ The study will be a retrospective cohort study using an active-comparator, new-u
 
 ### Study population
 
-Our study cohort is a population of individuals with type 2 diabetes and healthy individuals with a ratio of 1:3. We plan to include all individuals aged ≥18 years initiating statin treatment for the first time between 1 January 2012 and 31 December 2021 (Catchment population \~5.86 million). Data on statin dispensing period is from January 1995 to December 2021.
+We plan to include all individuals aged ≥18 years initiating statin treatment for the first time between 1 January 2012 and 30 June 2021.
 
 ### Exposure(s)
 
@@ -40,7 +40,7 @@ Potential baseline confounders include age, sex, type 2 diabetes, myocardial inf
 
 ### Statistical analysis
 
-Baseline characteristics of statin users will be summarised overall and according to type 2 diabetes status. Continuous variables will be presented as means with standard deviations and frequencies with percentages for categorical variables.
+Baseline characteristics of statin users will be summarised overall and according to type 2 diabetes status. Categorical variables will be reported with frequencies with percentages. Continuous variables, when normally distributed, will be presented as means with standard deviations. Non-normally distributed continuous variables will be presented as medians with interquartile ranges.
 
 Cox proportional hazards regression will be used to estimate the association between statin exposure and the first treatment modification within three and six months, with results reported as hazard ratios with 95 % confidence intervals.
 
