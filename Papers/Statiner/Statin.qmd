@@ -1,20 +1,24 @@
+---
+bibliography: references.bib
+---
+
 # Dose-response association between statins and adverse effects
 
 ## Background
 
-Low density lipoprotein cholesterol (LDL-C) is a well-established risk factor for atherosclerotic cardiovascular disease (CVD). Statins are the cornerstone of lipid-lowering therapy and are widely used for both primary and secondary prevention of CVD as they consistently reduce the risk of major vascular events.
+Low-density lipoprotein cholesterol is a direct cause of atherosclerotic cardiovascular disease (ASCVD)[@ference2017]. Statins are the cornerstone of lipid-lowering therapy and are widely used for both primary and secondary prevention of ASCVD as they consistently reduce the risk of major vascular events[@visseren2021; @cholesteroltreatmenttrialists(ctt)collaboration2010].
 
-The use of statins has increased substantially over recent decades. In Denmark, approximately XXX individuals redeem prescriptions for statins each year, and this number is expected to increase as the population ages. In clinical practice, statin therapy is often initiated at a lower dose and subsequently up-titrated, partly to improve tolerability. However, it remains uncertain whether initiating treatment at a lower dose is associated with fewer adverse effects compared with initiating treatment at a higher dose.
+Despite statins efficacy and overall favourable safety profile, statins are associated with concerns about adverse effects, particularly muscle-related symptoms[@satishramkumar2016]. These concerns may lead clinicians to initiate treatment at a lower dose and subsequently up-titrate in an attempt to improve tolerability. However, placebo-controlled randomised trials have shown that a substantial proportion of symptoms attributed to statins, are not actually caused by statin therapy[@collins2016a]. Consequently, it remains uncertain whether initiating statin therapy at a lower dose actually reduces the risk of treatment-related adverse effects compared with initiating treatment at a higher dose.
 
-Overall, statins are well tolerated with rare serious adverse effects. Although they share the same mechanism of action, individual agents differ in lipid-lowering potency, pharmacokinetic properties, lipophilicity and metabolic pathways. These differences may influence their adverse effect profiles. However, whether the risk of adverse effects differs between individual statins independently of starting dose remains uncertain.
+In addition to dose, the choice of statin may be relevant. Although all statins share the same mechanism of action, individual agents differ in lipid-lowering potency, pharmacokinetic properties, lipophilicity and metabolic pathways[@weng2009; @stancu2001]. These differences may influence their adverse effect profiles and should therefore be considered when evaluating the association between starting dose and adverse effects.
 
-We hypothesise that the risk of adverse effects does not differ according to statin starting dose or statin type.
+The aim of this study is to investigate whether the risk of adverse events differs according to statin starting dose and statin type, with the hypothesis that the risk of adverse events does not differ according to statin starting dose or statin type.
 
 ## Methods
 
 ### Data sources
 
-This study will be conducted using a project database (703382) from Statistics Denmark, containing data on individuals with type 2 diabetes and healthy individuals with a ratio of 1:3. Data will be obtained from the Danish National Patient Registry, Register of Medicinal Products Statistics, and Danish Civil Registration System. The Danish National Patient Registry contains information on hospital-based diagnoses, while the Register of Medicinal Products Statistics includes all redeemed prescriptions from community pharmacies. Cross-linkage will be performed using unique civil registration numbers assigned to all Danish residents. Data from Register of Medicinal Products Statistics contains information on statin dispensing from January 1995 to December 2021.
+This study will be conducted using a project database (703382) from Statistics Denmark, containing data on individuals with type 2 diabetes and healthy individuals with a ratio of 1:3. Data will be obtained from the Danish National Patient Registry, Register of Medicinal Products Statistics, and Danish Civil Registration System[@pedersen2011; @lynge2011]. The Danish National Patient Registry contains information on hospital-based diagnoses, while the Register of Medicinal Products Statistics includes all redeemed prescriptions from community pharmacies. Cross-linkage will be performed using unique civil registration numbers assigned to all Danish residents. Data from Register of Medicinal Products Statistics contains information on statin dispensing from January 1995 to December 2021.
 
 ### Study design
 
@@ -36,7 +40,7 @@ Statin dose reduction will be defined as either (a) dispensing of the same stati
 
 ### Confounders
 
-Potential baseline confounders include age, sex, type 2 diabetes, myocardial infarction, ischemic stroke and familial hypercholesterolemia.
+Potential baseline confounders include age, sex, type 2 diabetes, myocardial infarction, ischemic stroke, chronic kidney disease, ethnicity, inhibitors of cytochrome P450 and familial hypercholesterolemia[@collins2016].
 
 ### Statistical analysis
 
