@@ -40,7 +40,7 @@ Statin dose reduction will be defined as either (a) dispensing of the same stati
 
 ### Confounders
 
-Potential baseline confounders include age, sex, type 2 diabetes, myocardial infarction, ischemic stroke, chronic kidney disease, ethnicity, inhibitors of cytochrome P450 and familial hypercholesterolemia[@collins2016].
+Potential baseline confounders include age, sex, type 2 diabetes, myocardial infarction, ischemic stroke, chronic kidney disease, ethnicity, inhibitors of cytochrome P450 or P-glycoprotein and familial hypercholesterolemia[@collins2016].
 
 ### Statistical analysis
 
