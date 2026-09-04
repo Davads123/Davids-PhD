@@ -1,3 +1,12 @@
 Interpretation of the evidence for the efficacy and safety of statin therapy
 DOI: 10.1016/S0140-6736(16)31357-5 
 - Kommer ind på tidl RCT og observationsstudier ift statiner og AE
+
+Large-scale evidence from randomised trials shows that statin therapy reduces 
+the risk of major vascular events (ie, coronary deaths or myocardial infarctions, strokes, and coronary revascularisation 
+procedures) by about one-quarter for each mmol/L reduction in LDL cholesterol during each year (after the fi rst) that 
+it continues to be taken. 
+- 
+placebo-controlled randomised trials have shown definitively that almost all of the symptomatic adverse events that are attributed to statin therapy in routine practice are not actually caused by it.
+
+It is, therefore, of concern that exaggerated claims about side-eff ect rates with statin therapy may be responsible for its under-use among individuals at increased risk of cardiovascular events.
