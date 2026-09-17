@@ -1,0 +1,33 @@
+``` mermaid
+flowchart TB
+    A["Statistics Denmark project database 703382<br>n = XX"] 
+    --> B["Statin dispensing between 1 January 2012 and 30 June 2021<br>n = XX"]
+
+    B --> C["Age ≥18 years<br>n = XX"]
+    B --> X1["Excluded: age <18 years<br>n = XX"]
+
+    C --> D["No statin dispensing during the 36-month washout period<br>n = XX"]
+    C --> X2["Excluded: statin use during washout<br>n = XX"]
+
+    D --> E["Initiated atorvastatin, rosuvastatin, or simvastatin<br>n = XX"]
+    D --> X3["Excluded: other statin initiated<br>n = XX"]
+
+    E --> F["Valid information on statin type and starting dose<br>n = XX"]
+    E --> X4["Excluded: missing or invalid dose information<br>n = XX"]
+
+    F --> G["Final study population<br>n = XX"]
+
+    G --> H["Atorvastatin<br>n = XX<br>T2D: n = XX<br>Without T2D: n = XX"]
+    G --> I["Rosuvastatin<br>n = XX<br>T2D: n = XX<br>Without T2D: n = XX"]
+    G --> J["Simvastatin<br>n = XX<br>T2D: n = XX<br>Without T2D: n = XX"]
+
+    H --> H1["10–20 mg<br>n = XX"]
+    H --> H2["40 mg<br>n = XX"]
+    H --> H3["80 mg<br>n = XX"]
+
+    I --> I1["10–20 mg<br>n = XX"]
+    I --> I2["30–40 mg<br>n = XX"]
+
+    J --> J1["10–20 mg<br>n = XX"]
+    J --> J2["30–40 mg<br>n = XX"]
+```
