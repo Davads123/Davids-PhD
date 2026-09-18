@@ -4,22 +4,13 @@ Writing a scientific paper
 
 Answer following
 
-- **Who are you addressing**: scientists who are specialists in your field
-  of research, a wider group of scientists, fellow students, or public
-  audiences?
+- **Who are you addressing**: scientists who are specialists in your field of research, a wider group of scientists, fellow students, or public audiences?
 
-- **Why is your message important**? Why are your communicating it?
-  Presumably you are not doing it just for credits, but to add to the
-  pool of knowledge, to teach, to inform, to persuade or push for
-  development.
+- **Why is your message important**? Why are your communicating it? Presumably you are not doing it just for credits, but to add to the pool of knowledge, to teach, to inform, to persuade or push for development.
 
-- **What are your main findings** or “take-home” messages? What are
-  you going to present- new research results or a review of a topic?
-  What prior knowledge, expectations and questions might your
-  audience have? What technical language do they understand?
+- **What are your main findings** or “take-home” messages? What are you going to present- new research results or a review of a topic? What prior knowledge, expectations and questions might your audience have? What technical language do they understand?
 
-- **How can you best deliver your message** and satisfy the audience’s
-  needs? How will the audience use its new knowledge?
+- **How can you best deliver your message** and satisfy the audience’s needs? How will the audience use its new knowledge?
 
 **Plan ahead**
 
@@ -27,8 +18,7 @@ Answer following
 
   - Think of the questions: **Who? Why? What? How?**
 
-- Make tables and figures of interesting results, and decide what
-  messages to communicate: Think of captions that can help the figures and tables in telling their story
+- Make tables and figures of interesting results, and decide what messages to communicate: Think of captions that can help the figures and tables in telling their story
 
 - Make an outline- your own style: should be a working outline + would normally be revised throughout the writing process
 
